@@ -10,7 +10,7 @@ export const DATA = {
   description: "Full-Stack Web Developer",
   summary:
     "I’m a web developer passionate about building products that make a real impact. At an EdTech startup, I’ve contributed by adding features and improvements that enhance the user experience. With a foundation in Next.js, Node.js, APIs, TypeScript, and AI tools, I’m steadily growing into a full-stack developer who enjoys turning ideas into functional applications. Beyond coding, I create educational content to share knowledge and support the developer community. I’m always open to new opportunities and collaborations where I can apply my skills, continue learning, and help build meaningful products.",
-  avatarUrl: "/me.JPG",
+  avatarUrl: "/me.webp",
   skills: [
     // Programming languge
     "Python",
@@ -78,7 +78,7 @@ export const DATA = {
       badges: [],
       location: "Algeria",
       title: "Web Developer",
-      logoUrl: "SomuRaqami.jpg",
+      logoUrl: "SomuRaqami.webp",
       start: "Jul 2024",
       end: "Present",
       description: `
@@ -99,7 +99,7 @@ export const DATA = {
       school: "Badji Mokhtar - Annaba University",
       href: "",
       degree: "Bachlor's Degree, Computer Science",
-      logoUrl: "/ubma.jpeg",
+      logoUrl: "/ubma.webp",
       start: "2023",
       end: "Present",
     },
@@ -125,7 +125,7 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "/Brainwave.png",
+      image: "/Brainwave.webp",
       video: "",
     },
     {
@@ -148,7 +148,7 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "/flowingMarvel.png",
+      image: "/flowingMarvel.webp",
       video: "",
     },
   ],
