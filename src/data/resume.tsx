@@ -111,7 +111,7 @@ export const DATA = {
       // dates: "Jan 2024 - Feb 2024",
       active: true,
       description:
-        "Brainwave is a frontend web interface built with React.js, featuring responsive design, animations, and reusable components. It showcases clean, organized code and practical skills in modern UI development, creating a polished, maintainable interface.",
+        "A responsive interface with smooth animations and reusable components, showcasing clean code and modern UI practices.",
       technologies: ["React js", "JavaScript", "Vite", "Tailwind CSS"],
       links: [
         {
@@ -134,7 +134,7 @@ export const DATA = {
       // dates: "Jan 2024 - Feb 2024",
       active: true,
       description:
-        "Brainwave is a frontend web interface built with React.js, featuring responsive design, animations, and reusable components. It showcases clean, organized code and practical skills in modern UI development, creating a polished, maintainable interface.",
+        "A responsive web application designed for a social media marketing agency, featuring smooth animations, modern UI/UX design principles, and adaptability across all screen sizes.",
       technologies: ["React js", "TypeScript", "Vite", "Tailwind CSS"],
       links: [
         {
