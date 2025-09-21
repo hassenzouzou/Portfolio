@@ -106,6 +106,24 @@ export const DATA = {
   ],
   projects: [
     {
+      title: "Dahm",
+      href: "https://dahmmarketing.com/",
+      // dates: "Jan 2024 - Feb 2024",
+      active: true,
+      description:
+        "A corporate website for Dahm, a Muscat-based digital marketing agency offering performance marketing, social media management, branding, and content production services.",
+      technologies: ["Next js", "TypeScript", "Tailwind CSS", "shadcn"],
+      links: [
+        {
+          type: "Website",
+          href: "https://dahmmarketing.com/",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+      image: "/Dahm.webp",
+      video: "",
+    },
+    {
       title: "Brainwave",
       href: "https://brainwave-rouge.vercel.app/",
       // dates: "Jan 2024 - Feb 2024",
