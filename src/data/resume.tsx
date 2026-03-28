@@ -12,24 +12,26 @@ export const DATA = {
     "I’m a web developer passionate about building products that make a real impact. At an EdTech startup, I’ve contributed by adding features and improvements that enhance the user experience. With a foundation in Next.js, Node.js, APIs, TypeScript, and AI tools, I’m steadily growing into a full-stack developer who enjoys turning ideas into functional applications. Beyond coding, I create educational content to share knowledge and support the developer community. I’m always open to new opportunities and collaborations where I can apply my skills, continue learning, and help build meaningful products.",
   avatarUrl: "/me.webp",
   skills: [
-    // Programming languge
-    "Python",
-    "JavaScript",
+    // Core Languages
     "TypeScript",
+    "JavaScript",
+    "Python",
 
     // Frontend
+    "Next.js",
+    "React.js",
+    "Tailwind CSS",
+    "Shadcn UI",
     "HTML",
     "CSS",
-    "Tailwind CSS",
-    "React js",
-    "Next js",
-    "Shadcn UI",
 
     // Backend
-    "Node js",
-    "Express js",
-    "MySQL",
+    "Node.js",
+    "Express.js",
+
+    // Databases  
     "MongoDB",
+    "MySQL",
     "Supabase",
   ],
   navbar: [
@@ -105,6 +107,24 @@ export const DATA = {
     },
   ],
   projects: [
+    {
+      title: "Touareg Trips",
+      href: "https://touareg-trips.com/",
+      // dates: "Jan 2024 - Feb 2024",
+      active: true,
+      description:
+        "A conversion-focused landing page built for a tourism agency, designed to showcase travel experiences and drive direct service inquiries.",
+      technologies: ["Next js", "TypeScript", "Tailwind CSS"],
+      links: [
+        {
+          type: "Website",
+          href: "https://touareg-trips.com/",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+      image: "/touaregTrips.png",
+      video: "",
+    },
     {
       title: "Dahm",
       href: "https://dahmmarketing.com/",
