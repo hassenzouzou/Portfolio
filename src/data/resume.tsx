@@ -28,8 +28,9 @@ export const DATA = {
     // Backend
     "Node.js",
     "Express.js",
+    "Nest.js",
 
-    // Databases  
+    // Databases
     "MongoDB",
     "MySQL",
     "Supabase",
@@ -102,8 +103,8 @@ export const DATA = {
       href: "",
       degree: "Bachlor's Degree, Computer Science",
       logoUrl: "/ubma.webp",
-      start: "2023",
-      end: "Present",
+      start: "Sep 2023",
+      end: "Jun 2026",
     },
   ],
   projects: [
@@ -123,6 +124,24 @@ export const DATA = {
         },
       ],
       image: "/touaregTrips.png",
+      video: "",
+    },
+    {
+      title: "Bak Bay Asie",
+      href: "https://bakbayasie.com/",
+      // dates: "Jan 2024 - Feb 2024",
+      active: true,
+      description:
+        "Developed a comprehensive e-commerce platform for an import and export company. Focused on building a scalable architecture, optimizing performance",
+      technologies: ["Next js", "TypeScript", "StrapiCMS", "Tailwind CSS"],
+      links: [
+        {
+          type: "Website",
+          href: "https://touareg-trips.com/",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+      image: "/Bakbayasie.png",
       video: "",
     },
     {
